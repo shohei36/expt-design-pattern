@@ -4,7 +4,7 @@
 
 ※参考：(増補改訂版)Java言語で学ぶデザインパターン入門
 
-- [ ] Iterator
+- [x] Iterator
 - [ ] Adaptor
 - [ ] Template Method
 - [ ] Fatory Method
