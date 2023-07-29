@@ -1,3 +1,7 @@
+# 概要
+- 実装とは切り離して、数え上げを行うことができる
+
+# UML Diagram
 ```mermaid
 ---
 title: Iterator Pattern

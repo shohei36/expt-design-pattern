@@ -4,7 +4,7 @@
 
 ※参考：(増補改訂版)Java言語で学ぶデザインパターン入門
 
-- [x] Iterator
+- [X] Iterator
 - [ ] Adaptor
 - [ ] Template Method
 - [ ] Fatory Method
@@ -18,7 +18,7 @@
 - [ ] Decorator
 - [ ] Visitor
 - [ ] Chain of Responsibility
-- [ ] Facade
+- [X] Facade
 - [ ] Mediator
 - [ ] Observer
 - [ ] Memento

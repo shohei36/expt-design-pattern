@@ -1,3 +1,8 @@
+# 概要
+- 複雑なものを単純に見せる
+- インターフェース(API)を少なくすることで利便性の向上や、外部との結合を疎にできる
+
+# UML Diagram
 ```mermaid
 ---
 title: Facade Pattern
