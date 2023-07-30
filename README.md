@@ -15,7 +15,7 @@
 - [ ] Bridge
 - [ ] Strategy
 - [ ] Composite
-- [ ] Decorator
+- [X] Decorator
 - [ ] Visitor
 - [ ] Chain of Responsibility
 - [X] Facade
