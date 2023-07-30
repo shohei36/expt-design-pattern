@@ -1,4 +1,4 @@
-# 概要
+# Iterator Pattern
 - 実装とは切り離して、数え上げを行うことができる
 
 # UML Diagram
