@@ -11,13 +11,13 @@ public class MacroCommand implements Command {
     /**
      * 命令の集合
      */
-    private Stack commands = new Stack();
+    private Stack<Command> commands = new Stack<>();
 
     @Override
     public void execute() {
-        Iterator it = commands.iterator();
+        Iterator<Command> it = commands.iterator();
         while (it.hasNext()) {
-            ((Command) it.next()).execute();
+            it.next().execute();
         }
     }
 

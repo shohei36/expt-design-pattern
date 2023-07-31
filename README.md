@@ -25,5 +25,5 @@
 - [ ] State
 - [ ] Flyweight
 - [ ] Proxy
-- [ ] Command
+- [X] Command
 - [ ] Interpreter

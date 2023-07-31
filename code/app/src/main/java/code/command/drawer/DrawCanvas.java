@@ -22,6 +22,7 @@ public class DrawCanvas extends Canvas implements Drawable {
     /**
      * 履歴全体を再描画
      */
+    @Override
     public void paint(Graphics g) {
         history.execute();
     }
