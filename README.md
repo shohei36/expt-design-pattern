@@ -9,7 +9,7 @@
 - [ ] Template Method
 - [ ] Fatory Method
 - [ ] Singleton
-- [ ] Prototype
+- [X] Prototype
 - [ ] Builder
 - [ ] Abstract Factory
 - [ ] Bridge
