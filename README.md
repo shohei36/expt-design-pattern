@@ -17,7 +17,7 @@
 - [ ] Composite
 - [X] Decorator
 - [ ] Visitor
-- [ ] Chain of Responsibility
+- [X] Chain of Responsibility
 - [X] Facade
 - [X] Mediator
 - [ ] Observer
