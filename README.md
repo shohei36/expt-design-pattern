@@ -19,7 +19,7 @@
 - [ ] Visitor
 - [ ] Chain of Responsibility
 - [X] Facade
-- [ ] Mediator
+- [X] Mediator
 - [ ] Observer
 - [ ] Memento
 - [ ] State
