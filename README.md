@@ -7,7 +7,7 @@
 - [X] Iterator
 - [ ] Adaptor
 - [ ] Template Method
-- [ ] Fatory Method
+- [X] Fatory Method
 - [ ] Singleton
 - [X] Prototype
 - [ ] Builder
